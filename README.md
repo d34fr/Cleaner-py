@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<br>!My Bento](https://bento.me/d34)
-[![Replit](https://replit.com/@Oziz/oxi-raid#main.py)
-[![Discord](https://discord.gg/a5bhECBb)<br>
+<br>[My Bento](https://bento.me/d34)
+[Replit](https://replit.com/@Oziz/oxi-raid#main.py)
+[Discord](https://discord.gg/a5bhECBb)<br>
 
   
   </div>
