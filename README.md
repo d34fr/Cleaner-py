@@ -10,11 +10,11 @@
   </div>
   
   # Features
-**Prefix : `*`**
+**Prefix : `*`**  
 **DEV : `d34fr` **
 **Language : `Python`**
 
-* **__Commandes :__**
+#  **__Commandes :__**
 `nuke` | Detruit tout les salons et en crée plein d'autre en spammant un message.
 `spam [nombre] [message]` | Spam un message voulu dans tout les salons.
 `ed` | Supprime tout les emojis.
