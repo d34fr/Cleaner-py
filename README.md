@@ -15,12 +15,12 @@
 **Language : `Python`**
 
 #  **__Commandes :__**
-`nuke` | Detruit tout les salons et en crée plein d'autre en spammant un message.
-`spam [nombre] [message]` | Spam un message voulu dans tout les salons.
-`ed` | Supprime tout les emojis.
-
-`mc` | Crée plein de salons.
-`mr` | Crée plein de rôles
+`nuke` | Detruit tout les salons et en crée plein d'autre en spammant un message.                                                    
+`spam [nombre] [message]` | Spam un message voulu dans tout les salons.                                                                                          
+`ed` | Supprime tout les emojis.                                                                                                                                        
+                                                                                                                                                                                        
+`mc` | Crée plein de salons.                                                            
+`mr` | Crée plein de rôles                                                                                                                                                              
 `dc` | Supprime tout les salons.
 `dr` | Supprime tout les rôles.
 
