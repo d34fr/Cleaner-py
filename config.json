@@ -1,11 +1,11 @@
 {
-  "token": Token",
+  "token": "Token",
   "prefix": "*",
   "status": "d34fr",
   "channel_names": ["", ""],
   "message_spam": ["@everyone | Ton message", "@everyone | Ton message", "@everyone | Ton message"],
   "webhook_names": ["", ""],
-  "role_spam_name": ",
+  "role_spam_name": "",
   "nuke_server_name": "Serveur de d34fr",
   "ban_reason": "",
   "kick_reason": "",
